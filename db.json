@@ -1,0 +1,69 @@
+{
+    "posts": [
+      {
+        "id": "1",
+       "restaurantName":"Bawarchi",
+       "name":"hema",
+       "contactNo":"9999999999",
+       "email":"hema@gmisil.com"
+      },
+      {
+        "id": "2",
+       "restaurantName":"Mehfil",
+       "name":"dhana",
+       "contactNo":"9398787028",
+       "email":"dhana@gmisil.com"
+      },
+      {
+        "id": "3",
+       "restaurantName":"Bawarchi1",
+       "name":"hema1",
+       "contactNo":"1234567890",
+       "email":"hema1@gmail.com"
+      },
+      {
+        "id": "4",
+       "restaurantName":"Bawarchii1",
+       "name":"hema11",
+       "contactNo":"1122334455",
+       "email":"hema11@gmail.com"
+      },
+      {
+        "id": "5",
+       "restaurantName":"Bawarchii11",
+       "name":"hema111",
+       "contactNo":"1122334466",
+       "email":"hema111@gmail.com"
+      },
+      {
+        "id": "6",
+       "restaurantName":"Bawarchii111",
+       "name":"hema1111",
+       "contactNo":"1122334468",
+       "email":"hema1111@gmail.com"
+      },
+      {
+        "id": "7",
+       "restaurantName":"Bawarchii1112",
+       "name":"hema11112",
+       "contactNo":"11223344682",
+       "email":"hema11112@gmail.com"
+      },
+      {
+        "id": "8",
+       "restaurantName":"Bawarchii11121",
+       "name":"hema111121",
+       "contactNo":"112233446821",
+       "email":"hema111121@gmail.com"
+      },
+      {
+        "id": "39",
+       "restaurantName":"Bawarcho",
+       "name":"hemak",
+       "contactNo":"1234455771",
+       "email":"hemak@gmail.com"
+      }
+  
+      
+    ]
+  }
